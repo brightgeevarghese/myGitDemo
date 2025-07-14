@@ -18,6 +18,22 @@
 
 ---
 
+# Important Project Requirements
+
+**Stream API:**
+
+You must make use of the Java Stream API wherever it is applicable, especially for collection processing, filtering, mapping, aggregation, and other data operations. Clearly highlight these usages in your code and documentation.
+
+**Unit Testing:**
+
+Implement unit tests for your business logic using JUnit or a similar testing framework. Include instructions for running your test suite and ensure your tests cover major functionalities and edge cases.
+
+**Singleton Pattern:**
+
+Where a class should have only one instance (for example, for managing resources, database connections, configuration, etc.), apply the Singleton design pattern. 
+
+---
+
 ## 1. Problem Description
 
 Provide a clear and concise explanation of the real-world problem your project aims to solve. Include background, motivation, and significance.
